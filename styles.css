@@ -5,4 +5,7 @@
 }
 #new{
   background: red;
+  color:red;
+  text-align: green;
+  column-count: 2;
 }
