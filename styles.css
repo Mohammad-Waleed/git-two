@@ -1,5 +1,7 @@
 .cls{
   background: green;
+  color: green;
+  text-align: center;
 }
 #new{
   background: red;
